@@ -21,10 +21,10 @@
 
 **岩田 穂治（Hoharu Iwata）** です。日本で Web エンジニアをしています（経験 約3年）。
 
-- 🛠️ PHP（素の PHP + Smarty / Laravel）から TypeScript（Vue / React）まで、サーバーサイドもフロントも書きます
-- 🗄️ MySQL・PostgreSQL・DynamoDB を扱い、kintone のカスタマイズやシェル / PHP のバッチ処理も担当
-- 🤖 職場では GitHub Copilot を使った **AI 駆動開発の導入をリード**
-- 🚀 個人では要件定義からデプロイまで一人で回し、リリース後も改善を続けるのが好きです
+- PHP（素の PHP + Smarty / Laravel）から TypeScript（Vue / React）まで、サーバーサイドもフロントも書きます
+- MySQL・PostgreSQL・DynamoDB を扱い、kintone のカスタマイズやシェル / PHP のバッチ処理も担当
+- 職場では GitHub Copilot を使った **AI 駆動開発の導入をリード**
+- 個人では要件定義からデプロイまで一人で回し、リリース後も改善を続けるのが好きです
 
 > *A Japan-based web engineer who designs, builds, and ships full-stack apps with an AI-assisted workflow.*
 
@@ -37,12 +37,12 @@ AI に書かせて、別の AI に見てもらい、テストで確かめる。�
 
 ```mermaid
 flowchart LR
-    A["📝 要件・設計<br/>Requirements"] --> B["⚡ 実装<br/>Cursor"]
-    B --> C["🔍 コードレビュー<br/>Codex"]
+    A["要件・設計<br/>Requirements"] --> B["実装<br/>Cursor"]
+    B --> C["コードレビュー<br/>Codex"]
     C -->|指摘を反映| B
-    C --> D["🧪 E2E テスト<br/>Playwright"]
+    C --> D["E2E テスト<br/>Playwright"]
     D -->|失敗したら戻す| B
-    D --> E["🚀 デプロイ<br/>Cloudflare"]
+    D --> E["デプロイ<br/>Cloudflare"]
 ```
 
 <p>
