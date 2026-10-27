@@ -17,7 +17,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 **岩田 穂治（Hoharu Iwata）** です。日本で Web エンジニアをしています（経験 約3年）。
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🤖 How I Build — AI-Driven Workflow
+## How I Build — AI-Driven Workflow
 
 実装は **Cursor**、コードレビューは **Codex**、品質の最後の砦は **Playwright の E2E テスト**。
 AI に書かせて、別の AI に見てもらい、テストで確かめる。この流れを個人開発でも回しています。
@@ -54,7 +54,7 @@ flowchart LR
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -87,12 +87,12 @@ flowchart LR
 
 ---
 
-## ✨ Featured Works
+## Featured Works
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗂️ NAP — 人材派遣業向け業務システム</h3>
+      <h3>NAP — 人材派遣業向け業務システム</h3>
       <p>派遣業務の <b>シフト管理・勤怠・見積・請求書</b> をひとつにまとめた Web システム。要件定義から設計・実装・テスト・デプロイまで一人で担当し、現在も機能追加を継続中（副業・非公開）。</p>
       <p>
         <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
@@ -104,7 +104,7 @@ flowchart LR
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗾 Tokyo Side Trips</h3>
+      <h3>Tokyo Side Trips</h3>
       <p>訪日旅行者向けの英語トラベルガイド。鎌倉・江ノ島・箱根・横浜など、東京からの日帰り／一泊旅行を紹介しています。サイトの運営は <b>AI エージェントと一緒に回している</b> プロジェクト。</p>
       <p>
         <a href="https://tokyosidetrips.com"><img src="https://img.shields.io/badge/Visit-tokyosidetrips.com-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit tokyosidetrips.com" /></a>
@@ -114,7 +114,7 @@ flowchart LR
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐾 pet-post</h3>
+      <h3>pet-post</h3>
       <p>ペットの写真を毎日交換し合うアプリ。Cloudflare Workers 上で動かしています（非公開）。</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -122,7 +122,7 @@ flowchart LR
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🦀 smart-mock</h3>
+      <h3>smart-mock</h3>
       <p>OpenAPI・TypeScript・JSON スキーマから立ち上がる、コンテキストを考慮したローカル Mock API サーバー。Rust 製。</p>
       <p>
         <a href="https://github.com/usa4040/smart-mock"><img src="https://img.shields.io/badge/Repo-smart--mock-181717?style=flat-square&logo=github&logoColor=white" alt="smart-mock repository" /></a>
@@ -134,7 +134,7 @@ flowchart LR
 
 ---
 
-## 📈 Activity
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=usa4040&theme=tokyonight&hide_border=true&date_format=Y%2Fn%2Fj" alt="GitHub contribution streak" />
